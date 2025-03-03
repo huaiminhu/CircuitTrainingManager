@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CircuitWebServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b89f8f6cdf0254150467d810f0f7e3337654761")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6f671c06ccb1933a537ee6bfbbf40352be97bd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CircuitWebServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CircuitWebServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
