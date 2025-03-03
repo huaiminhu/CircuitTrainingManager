@@ -12,6 +12,6 @@ namespace DataAccess.Entities
         public required string NickName { get; set; }
         public required string UserName { get; set; }
         public required string Password { get; set; }
-        public List<Circuit> Circuits { get; set; }
+        public List<Circuit> Circuits { get; set; } = [];
     }
 }

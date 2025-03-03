@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hankh\\Desktop\\CircuitTrainingManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF73F089-BD17-46E5-84C5-AFB8FC5936EF}|DataAccess\\DataAccess.csproj|c:\\users\\hankh\\desktop\\circuittrainingmanager\\dataaccess\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF73F089-BD17-46E5-84C5-AFB8FC5936EF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF73F089-BD17-46E5-84C5-AFB8FC5936EF}|DataAccess\\DataAccess.csproj|c:\\users\\hankh\\desktop\\circuittrainingmanager\\dataaccess\\entities\\circuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF73F089-BD17-46E5-84C5-AFB8FC5936EF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\circuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EF73F089-BD17-46E5-84C5-AFB8FC5936EF}|DataAccess\\DataAccess.csproj|c:\\users\\hankh\\desktop\\circuittrainingmanager\\dataaccess\\entities\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF73F089-BD17-46E5-84C5-AFB8FC5936EF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF73F089-BD17-46E5-84C5-AFB8FC5936EF}|DataAccess\\DataAccess.csproj|c:\\users\\hankh\\desktop\\circuittrainingmanager\\dataaccess\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF73F089-BD17-46E5-84C5-AFB8FC5936EF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +26,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\hankh\\Desktop\\CircuitTrainingManager\\DataAccess\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\hankh\\Desktop\\CircuitTrainingManager\\DataAccess\\Entities\\User.cs",
-              "RelativeToolTip": "DataAccess\\Entities\\User.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T13:21:17.33Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hankh\\Desktop\\CircuitTrainingManager\\DataAccess\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\hankh\\Desktop\\CircuitTrainingManager\\DataAccess\\Entities\\User.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:21:17.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Goal.cs",
               "DocumentMoniker": "C:\\Users\\hankh\\Desktop\\CircuitTrainingManager\\DataAccess\\Entities\\Goal.cs",
               "RelativeDocumentMoniker": "DataAccess\\Entities\\Goal.cs",
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Exercise.cs",
               "DocumentMoniker": "C:\\Users\\hankh\\Desktop\\CircuitTrainingManager\\DataAccess\\Entities\\Exercise.cs",
               "RelativeDocumentMoniker": "DataAccess\\Entities\\Exercise.cs",
@@ -73,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Circuit.cs",
               "DocumentMoniker": "C:\\Users\\hankh\\Desktop\\CircuitTrainingManager\\DataAccess\\Entities\\Circuit.cs",
               "RelativeDocumentMoniker": "DataAccess\\Entities\\Circuit.cs",
               "ToolTip": "C:\\Users\\hankh\\Desktop\\CircuitTrainingManager\\DataAccess\\Entities\\Circuit.cs",
               "RelativeToolTip": "DataAccess\\Entities\\Circuit.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAA0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T13:23:22.906Z",
               "EditorCaption": ""
