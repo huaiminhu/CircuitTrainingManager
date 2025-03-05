@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowMVCClient",
-        policy => policy.WithOrigins("https://localhost:7239") // MVC ºô§}
+        policy => policy.WithOrigins("https://localhost:7239") // Client ºô§}
                         .AllowAnyHeader()
                         .AllowAnyMethod());
 });
