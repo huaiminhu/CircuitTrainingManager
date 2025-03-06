@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Entities
 {
-    public class Exercise
+    public class Station
     {
+        public int CircuitId { get; set; }
+        public required Circuit Circuit { get; set; }
         public int ExerciseId { get; set; }
-        public required string Name { get; set;}
-        public List<Station> Stations { get; set; } = [];
+        public required Exercise Exercise { get; set; }
     }
 }
